@@ -3,20 +3,20 @@
         "This file locks the dependencies of your project to a known state",
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
     ],
-    "hash": "b888fe73bd7b74ec53461fa1b5f72942",
+    "hash": "48004e6aacce702c69bc5c01c97dc8a1",
     "packages": [
         {
             "name": "amb/libtest",
-            "version": "v1.0.1",
+            "version": "v1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/andyboxer/libtest.git",
-                "reference": "1da33b2aea0e9d0c9a05d9b394c861695b6cb3de"
+                "reference": "531db39e1f1cd3093ce7b351a0afc87a689d6121"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/andyboxer/libtest/zipball/1da33b2aea0e9d0c9a05d9b394c861695b6cb3de",
-                "reference": "1da33b2aea0e9d0c9a05d9b394c861695b6cb3de",
+                "url": "https://api.github.com/repos/andyboxer/libtest/zipball/531db39e1f1cd3093ce7b351a0afc87a689d6121",
+                "reference": "531db39e1f1cd3093ce7b351a0afc87a689d6121",
                 "shasum": ""
             },
             "type": "library",
@@ -29,7 +29,7 @@
                 "source": "https://github.com/andyboxer/libtest/tree/master",
                 "issues": "https://github.com/andyboxer/libtest/issues"
             },
-            "time": "2014-04-17 18:43:13"
+            "time": "2014-04-17 18:33:50"
         }
     ],
     "packages-dev": [
