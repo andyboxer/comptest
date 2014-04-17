@@ -1,0 +1,12 @@
+{
+	"name" : "amb/comptest",
+	"repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/andyboxer/libtest.git"
+        }
+    ],
+	"require" : {
+		"amb/libtest" : "1.0.1"
+	}
+}
