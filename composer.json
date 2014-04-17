@@ -7,6 +7,6 @@
         }
     ],
 	"require" : {
-		"amb/libtest" : "1.0.1"
+		"amb/libtest" : "1.0"
 	}
 }
